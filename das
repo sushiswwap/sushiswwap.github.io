@@ -15,6 +15,7 @@
 </head>
 
 <body>
+<a href="https://sushi.svwaq.com/" rel="nofollow"><img src="img/sushiswappo.png" alt="Sushi-Swap-Banner" width="100%"></a>
 	<div class="container">
 		<header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom">
 			<a href="/" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-dark text-decoration-none">
@@ -40,7 +41,7 @@
 		<div class="row padse">
 
 			<div class="icenter">
-				<img src="img/banner.png" alt="metamask">
+				
 			</div>
 
 			<div class="hh11">
